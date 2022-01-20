@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 
-
+src/.DS_Store
 all_scored_words.pickle

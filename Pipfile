@@ -6,10 +6,10 @@ name = "pypi"
 [packages]
 requests = "*"
 selenium = "*"
+sqwordle = {editable = true, path = "."}
 
 [dev-packages]
 pytest = "*"
-black = "*"
 flake8 = "*"
 
 [requires]
